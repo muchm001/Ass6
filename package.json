@@ -1,0 +1,10 @@
+{
+  "name": "Assignment 6",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "mysql": "2.10.2"
+  }
+}
